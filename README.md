@@ -81,6 +81,12 @@ const App = () => {
 
 # The Layout
 
+The app will have 2 pages as per image below.
+
+The hamburger menu will have 1 link for the gallery page and one link for the detail page.
+
+Please contact: domenico@orangedigital.com.au if any questions.
+
 ![Portal Home](https://bitbucket.org/orangedigital/od-react-challege/raw/bce74dbb748d91a5b334f1b0035bea4ce08e2260/app-page-figma.png)
 
 # The Backend API
