@@ -5,7 +5,7 @@ This code challenge will test your:
 - Ability to think on the spot
 - Communication skills and ability to talk through their code with others
 - Logical thought processes
-  This coding challenge designed to be completed in 48 hours. We are going to evaluate the work that has been acheaved in the first 60 minutes of work but we also encourage the developer to work longer and try to complete the task. The task does not need to be completed for a successfull interview, but we will appreciate the effort in trying to complete the task. 
+  This coding challenge designed to be completed in 8 hours. We are going to evaluate the work that has been acheaved in the first 60 minutes of work but we also encourage the developer to work longer and try to complete the task. The task does not need to be completed for a successfull interview, but we will appreciate the effort in trying to complete the task. 
 
 ## Writing your code
 
