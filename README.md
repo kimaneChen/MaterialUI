@@ -19,11 +19,11 @@ You are encouraged to use the Material Library for styling the React components.
 
 When Writing your code, please be mindful of the following:
 
--use eslint for js lint
--use stylelint for scss lint
--use editorconfig for editor configuration
--use packages.json to expose your scripts
--write the code functional and testable
+- use eslint for js lint
+- use stylelint for scss lint
+- use editorconfig for editor configuration
+- use packages.json to expose your scripts
+- write the code functional and testable
 
 The code must be submitted to public repo in your own git account and a live version has to be deployed on vercel if possible.
 
