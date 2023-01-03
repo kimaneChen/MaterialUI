@@ -25,7 +25,7 @@ When Writing your code, please be mindful of the following:
 -use packages.json to expose your scripts
 -write the code functional and testable
 
-The code must be submitted to public repo in gitlab and a live version has to be deployed on gitlab pages
+The code must be submitted to public repo in your own git account and a live version has to be deployed on vercel if possible.
 
 Please add the public link to the README.md file on your codebase. The layout must be responsive and optimise for iPad and iPhone.
 
@@ -59,7 +59,7 @@ yarn add --dev @emotion/babel-plugin
 In index.js
 
 ```JavaScript
-// After you installed all the required modules you can start using react with material-ui and style our components.
+// After you installed all the required modules you can start using react with material-ui and style our components. (EXAMPLE ONLY)
 /** @jsxImportSource @emotion/react */
 import React from "react";
 import ReactDOM from "react-dom";
