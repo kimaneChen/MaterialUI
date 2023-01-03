@@ -81,7 +81,7 @@ const App = () => {
 
 # The Layout
 
-![Portal Home](https://gitlab.com/rutigliano/reactchallenge/-/raw/main/app-page-figma.png)
+![Portal Home](https://bitbucket.org/orangedigital/od-react-challege/raw/bce74dbb748d91a5b334f1b0035bea4ce08e2260/app-page-figma.png)
 
 # The Backend API
 
