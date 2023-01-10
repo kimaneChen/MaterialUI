@@ -1,15 +1,14 @@
+import { Button } from '@mui/material';
 import React from 'react';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-      
+    <div>
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Edit 
         </p>
-
-      </header>
+        <Button> Test</Button>
     </div>
   );
 }
