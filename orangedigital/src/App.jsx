@@ -3,11 +3,12 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import Gallery from './pages/Gallery';
 import DetailPage from './pages/DetailPage';
+import Header from './components/Header';
 
 function App() {
   return (
     <div>
-      <header>Header</header>
+      <Header />
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Gallery />} />
