@@ -9,18 +9,12 @@ function App() {
   return (
     <div>
       <header>Header</header>
-
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Gallery />} />
           <Route path="detailpage" element={<DetailPage />} />
         </Routes>
       </BrowserRouter>
-      <div className="App">
-        <Button variant="text">Text</Button>
-        <Button variant="contained">Contained</Button>
-        <Button variant="outlined">Outlined</Button>
-      </div>
     </div>
   );
 }
